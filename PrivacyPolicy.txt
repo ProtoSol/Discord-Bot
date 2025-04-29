@@ -1,0 +1,24 @@
+Privacy Policy for HabitTracker
+
+Effective Date: 29/04/20205
+
+1. Information We Collect
+The Bot may collect basic usage data such as command usage, timestamps, and user/server IDs for functionality and analytics.
+
+2. Data Usage
+Collected data is used solely to improve the Bot's performance and features. We do not sell or share your data with third parties.
+
+3. Data Storage
+All data is stored securely. No personal or sensitive information is stored unless explicitly stated.
+
+4. Data Removal
+You may request deletion of your data by contacting us at: [your_email@example.com]
+
+5. Third-Party Services
+The Bot may integrate with third-party services (e.g., Google Sheets). These services are governed by their own privacy policies.
+
+6. Changes to Policy
+We may update this Privacy Policy. Continued use of the Bot after changes means you accept the new policy.
+
+7. Contact
+For privacy concerns, contact: ps1442003@outlook.com

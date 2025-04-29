@@ -1,0 +1,21 @@
+Terms of Service for HabitTracker
+
+Effective Date: 29/04/2025
+
+1. Acceptance of Terms
+By using HabitTracker (the "Bot") on Discord, you agree to these Terms of Service. If you do not agree, you may not use the Bot.
+
+2. Usage
+The Bot is provided as-is and is free to use. You may not abuse, modify, or attempt to exploit the Bot or its features in any way.
+
+3. User Responsibilities
+You are responsible for your interactions with the Bot and for complying with Discord's Terms of Service.
+
+4. Bot Availability
+We strive to keep the Bot available, but we make no guarantees. The Bot may go offline for maintenance or due to unforeseen issues.
+
+5. Changes to Terms
+We may update these Terms at any time. Continued use of the Bot after changes means you accept the new terms.
+
+6. Contact
+For questions, reach out at: ps1442003@outlook.com
